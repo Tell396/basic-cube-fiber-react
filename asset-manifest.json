@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.a81f665e.css",
-    "main.js": "/react-gh-pages/static/js/main.bc7a485e.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.a81f665e.css.map": "/react-gh-pages/static/css/main.a81f665e.css.map",
-    "main.bc7a485e.js.map": "/react-gh-pages/static/js/main.bc7a485e.js.map"
+    "main.css": "/basic-cube-fiber-react/static/css/main.a81f665e.css",
+    "main.js": "/basic-cube-fiber-react/static/js/main.bc7a485e.js",
+    "index.html": "/basic-cube-fiber-react/index.html",
+    "main.a81f665e.css.map": "/basic-cube-fiber-react/static/css/main.a81f665e.css.map",
+    "main.bc7a485e.js.map": "/basic-cube-fiber-react/static/js/main.bc7a485e.js.map"
   },
   "entrypoints": [
     "static/css/main.a81f665e.css",
